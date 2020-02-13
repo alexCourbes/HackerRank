@@ -1,2 +1,2 @@
 # HackerRank
-Complete HackerRank Challenges
+Completed HackerRank Challenges
