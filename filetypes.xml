@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern="RomanToInteger.java" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
